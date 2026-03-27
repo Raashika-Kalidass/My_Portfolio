@@ -10,18 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
     "framer-motion": "^12.38.0",
     "lottie-react": "^2.4.1",
     "next": "^16.1.6",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
-  
-
   "devDependencies": {
-  "tailwindcss": "^3.x.x",
-  "postcss": "^8.x.x",
-  "autoprefixer": "^10.x.x",
-  "@tailwindcss/postcss": "^8.x.x"
-}
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2"
+  }
 }
