@@ -1,36 +1,22 @@
 {
-  "name": "raashika-portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@tsparticles/react": "^3.0.0",
-    "framer-motion": "^12.35.2",
-    "lottie-react": "^2.4.1",
     "next": "^16.1.6",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "react-tsparticles": "^2.12.2",
-    "reactflow": "^11.11.4",
-    "tsparticles": "^3.9.1",
-    "tsparticles-engine": "^2.12.0",
-    "tsparticles-slim": "^2.12.0"
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
     "autoprefixer": "^10.4.27",
-    "eslint": "^9",
-    "eslint-config-next": "16.1.6",
     "postcss": "^8.5.8",
-    "tailwindcss": "^4.2.1",
-    "typescript": "^5"
+    "tailwindcss": "^4.2.1"
   }
 }
