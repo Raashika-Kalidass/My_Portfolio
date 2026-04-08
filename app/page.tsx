@@ -107,14 +107,14 @@ export default function Home() {
             Download Resume
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/raashika-kalidass"
             target="_blank"
             className="border border-purple-300 px-6 py-3 rounded-lg hover:bg-white hover:text-black transition"
           >
             LinkedIn
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/raashika"
             target="_blank"
             className="border border-purple-300 px-6 py-3 rounded-lg hover:bg-white hover:text-black transition"
           >
