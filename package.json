@@ -48,6 +48,9 @@
   "react-dom": "^19.2.4",
  
    
+  "react-tsparticles": "^2.12.2",
+ 
+   
   "reactflow": "^11.11.4"
  
   },
